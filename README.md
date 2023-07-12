@@ -6,6 +6,7 @@ I am a Frontend developer who does also backend sometimes
 - 🌱 I’m currently learning how to get better in coding :)
 
 ## Expertise
-<img align="left" alt="Static Badge" src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react">
-<img align="left" alt="next" src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs">
-<img align="left" alt="Static Badge" src="https://img.shields.io/badge/React-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align="left" alt="Static Badge" src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&link=%23">
+<img align="left" alt="next" src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&link=%23">
+<img align="left" alt="Static Badge" src="https://img.shields.io/badge/React-green?style=for-the-badge&logo=nodedotjs&logoColor=white&link=%23">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&link=%23">
