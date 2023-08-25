@@ -15,5 +15,6 @@ I am a Frontend developer who does also backend sometimes
 
 <a href="https://github.com/Jelenal1/ValeriaHtml">Valeria-muster.ch</a>
 
-<a href="https://github.com/Jelenal1/Speerstudios_Art_Multimedia">Insurance Calculator</a>
+<a href="https://github.com/Jelenal1/Speerstudios_Art_Multimedia">Speerstudios</a>
 
+<a href="https://github.com/Jelenal1/Versicherungsrechner_bbw">Insurance Calculator</a>
