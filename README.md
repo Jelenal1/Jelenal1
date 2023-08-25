@@ -12,6 +12,8 @@ I am a Frontend developer who does also backend sometimes
 
 ## Projects
 <a href="https://www.wintiblibtrot.ch/">Wintiblibtrot.ch</a>
+
 <a href="https://github.com/Jelenal1/ValeriaHtml">Valeria-muster.ch</a>
+
 <a href="https://github.com/Jelenal1/Speerstudios_Art_Multimedia">Insurance Calculator</a>
 
