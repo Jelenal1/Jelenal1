@@ -31,7 +31,7 @@ I am a Fullstack dev who thought to be a Frontend one 😂.
 <br/>
 
 ## Projects
-<a href="https://www.wintiblibtrot.ch/">Wintiblibtrot.ch</a>
+[Wintiblibtrot](https://wintiblibtrot.vercel.app/)
 
 <a href="https://github.com/Jelenal1/ValeriaHtml">Valeria-muster.ch</a>
 
