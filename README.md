@@ -33,6 +33,8 @@ I am a Fullstack dev who thought to be a Frontend one 😂.
 ## Projects
 [Wintiblibtrot](https://wintiblibtrot.vercel.app/)
 
+[1.Mai Winterthur](https://www.1mai-winterthur.ch/)
+
 <a href="https://github.com/Jelenal1/ValeriaHtml">Valeria-muster.ch</a>
 
 <a href="https://github.com/Jelenal1/Speerstudios_Art_Multimedia">Speerstudios</a>
