@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Fullstack dev who thought to be a Frontend one 😂.
+I am a FullStack Developer who is eager to learn new technology and likes to try new ways of deployment.
 
 ## Expertise
 ### Languages and Frameworks
