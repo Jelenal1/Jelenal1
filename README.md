@@ -31,9 +31,14 @@ I am a FullStack Developer who is eager to learn new technology and likes to try
 <br/>
 
 ## Projects
-[Wintiblibtrot](https://wintiblibtrot.vercel.app/)
 
-[1.Mai Winterthur](https://www.1mai-winterthur.ch/)
+[Website Lernende Petition JUSO](https://lernende-petition-juso.vercel.app/?lang=de)
+
+[Wintiblibtrot](https://github.com/Jelenal1/jusowintinrw23)
+
+[1.Mai Winterthur](https://github.com/Jelenal1/1mai_website)
+
+[Offenerbrief gegen transfeindliche Berichterstattung](https://github.com/Jelenal1/offenerbrief_gegen_transfeindliche_berichterstattung)
 
 <a href="https://github.com/Jelenal1/ValeriaHtml">Valeria-muster.ch</a>
 
